@@ -1,6 +1,6 @@
 # :wave: The Basics of Git and GitHub 
 
-# Hotovo Oliver
+# Hotovo Oliver.
 
 ## 🤓 Course overview and learning outcomes 
 
